@@ -15,4 +15,4 @@ regions:
   footer: 'Footer'
 
 libraries:
-  - myblogtheme/global-styling
+  - myonlineacademytheme/global-styling
